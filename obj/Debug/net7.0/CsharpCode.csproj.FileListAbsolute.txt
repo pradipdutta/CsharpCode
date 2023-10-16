@@ -1,0 +1,15 @@
+/home/pradipdutta/Documents/CsharpCode/bin/Debug/net7.0/CsharpCode
+/home/pradipdutta/Documents/CsharpCode/bin/Debug/net7.0/CsharpCode.deps.json
+/home/pradipdutta/Documents/CsharpCode/bin/Debug/net7.0/CsharpCode.runtimeconfig.json
+/home/pradipdutta/Documents/CsharpCode/bin/Debug/net7.0/CsharpCode.dll
+/home/pradipdutta/Documents/CsharpCode/bin/Debug/net7.0/CsharpCode.pdb
+/home/pradipdutta/Documents/CsharpCode/obj/Debug/net7.0/CsharpCode.csproj.AssemblyReference.cache
+/home/pradipdutta/Documents/CsharpCode/obj/Debug/net7.0/CsharpCode.GeneratedMSBuildEditorConfig.editorconfig
+/home/pradipdutta/Documents/CsharpCode/obj/Debug/net7.0/CsharpCode.AssemblyInfoInputs.cache
+/home/pradipdutta/Documents/CsharpCode/obj/Debug/net7.0/CsharpCode.AssemblyInfo.cs
+/home/pradipdutta/Documents/CsharpCode/obj/Debug/net7.0/CsharpCode.csproj.CoreCompileInputs.cache
+/home/pradipdutta/Documents/CsharpCode/obj/Debug/net7.0/CsharpCode.dll
+/home/pradipdutta/Documents/CsharpCode/obj/Debug/net7.0/refint/CsharpCode.dll
+/home/pradipdutta/Documents/CsharpCode/obj/Debug/net7.0/CsharpCode.pdb
+/home/pradipdutta/Documents/CsharpCode/obj/Debug/net7.0/CsharpCode.genruntimeconfig.cache
+/home/pradipdutta/Documents/CsharpCode/obj/Debug/net7.0/ref/CsharpCode.dll
