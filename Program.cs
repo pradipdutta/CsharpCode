@@ -9,5 +9,4 @@ for (int i=1; i<=height; i++)
         Console.Write("*");
     }
     Console.WriteLine();
-    Console.WriteLine( );
 }
