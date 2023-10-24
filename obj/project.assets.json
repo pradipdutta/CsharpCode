@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/pradipdutta/.nuget/packages/": {}
+    "C:\\Users\\Pradip Dutta\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/pradipdutta/Documents/CsharpCode/CsharpCode.csproj",
+      "projectUniqueName": "C:\\Users\\Pradip Dutta\\Git\\CsharpCode\\CsharpCode.csproj",
       "projectName": "CsharpCode",
-      "projectPath": "/home/pradipdutta/Documents/CsharpCode/CsharpCode.csproj",
-      "packagesPath": "/home/pradipdutta/.nuget/packages/",
-      "outputPath": "/home/pradipdutta/Documents/CsharpCode/obj/",
+      "projectPath": "C:\\Users\\Pradip Dutta\\Git\\CsharpCode\\CsharpCode.csproj",
+      "packagesPath": "C:\\Users\\Pradip Dutta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Pradip Dutta\\Git\\CsharpCode\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/pradipdutta/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Pradip Dutta\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.112/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
